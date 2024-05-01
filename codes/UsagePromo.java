@@ -1,3 +1,5 @@
-public interface UsagePromo{
+package codes;
+
+public interface UsagePromo {
     public String showAllowance(String telcoName, double money);
 }

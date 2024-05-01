@@ -1,3 +1,5 @@
-public interface UnliCallOffer{
+package codes;
+
+public interface UnliCallsTextOffer {
     public String showUnliCallsTextOffer(String telcoName, boolean unliCallText);
 }
